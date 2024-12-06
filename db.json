@@ -56,6 +56,29 @@
             ],
             "createdAt": "2024-01-01 20:30",
             "modifiedAt": "2024-01-01 20:31"
+        },
+        {
+            "id": 2,
+            "userAccount": "lee_vice",
+            "userPassword": "1Q2w3e4r@@",
+            "userName": "리바이스",
+            "userImage": null,
+            "userMail": "lee_vice@example.com",
+            "pets": [
+                {
+                    "id": 2,
+                    "petName": "리복",
+                    "petType": "알락꼬리마도요",
+                    "petAge": 62373,
+                    "petGender": "U",
+                    "isNeutered": false,
+                    "isGotChip": false,
+                    "chipNumber": null,
+                    "isMain": true
+                }
+            ],
+            "createdAt": "2024-01-01 20:30",
+            "modifiedAt": "2024-01-01 20:31"
         }
     ],
     "threads": [
@@ -141,6 +164,49 @@
                 "foundAt": "2024-01-01 08:00",
                 "foundSituation": "그냥 자빠라져있었슴 ㅇㅇ"
             },
+            "createdAt": "2024-01-01 20:30",
+            "modifiedAt": "2024-01-01 20:31"
+        }
+    ],
+    "reviews": [
+        {
+            "reviewAuthor": 0,
+            "reviewContent": "좋아요",
+            "starPoint": 5,
+            "createdAt": "2024-01-01 20:30",
+            "modifiedAt": "2024-01-01 20:31"
+        },
+        {
+            "reviewAuthor": 1,
+            "reviewContent": "좋아요",
+            "starPoint": 4,
+            "createdAt": "2024-01-01 20:30",
+            "modifiedAt": "2024-01-01 20:31"
+        },
+        {
+            "reviewAuthor": 2,
+            "reviewContent": "좋아요",
+            "starPoint": 5,
+            "createdAt": "2024-01-01 20:30",
+            "modifiedAt": "2024-01-01 20:31"
+        }
+    ],
+    "replies": [
+        {
+            "reviewAuthor": 2,
+            "reviewContent": "금방 찾으시기를",
+            "createdAt": "2024-01-01 20:30",
+            "modifiedAt": "2024-01-01 20:31"
+        },
+        {
+            "reviewAuthor": 0,
+            "reviewContent": "오 개꿀잼 몰카인가",
+            "createdAt": "2024-01-01 20:30",
+            "modifiedAt": "2024-01-01 20:31"
+        },
+        {
+            "reviewAuthor": 1,
+            "reviewContent": "우와 화이팅",
             "createdAt": "2024-01-01 20:30",
             "modifiedAt": "2024-01-01 20:31"
         }
