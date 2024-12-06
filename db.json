@@ -14,7 +14,7 @@
           "petType": "고양이",
           "petAge": 4,
           "petGender": "M",
-          "isMan" true
+          "isMan": true
         }
       ]
     }
