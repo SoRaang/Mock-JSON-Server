@@ -1,7 +1,22 @@
 {
-  "user": [
+  "users": [
     {
-      "id": 0
+      "id": 0,
+      "userAccount": "kim_4yongjar",
+      "userPassword": "1Q2w3e4r@@",
+      "userName": "김사용자",
+      "userImage": null,
+      "userMail": "4yongjar@example.com",
+      "pets": [
+        {
+          "id": 0,
+          "petName": "김땅콩",
+          "petType": "고양이",
+          "petAge": 4,
+          "petGender": "M",
+          "isMan" true
+        }
+      ]
     }
   ]
 }
