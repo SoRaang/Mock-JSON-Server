@@ -16,7 +16,7 @@
           "petGender": "M",
           "isNeutered": false,
           "isGotChip": true,
-          "chipNumber": 000000000000,
+          "chipNumber": "000000000000",
           "isMain": true
         },
         {
@@ -27,7 +27,7 @@
           "petGender": "M",
           "isNeutered": true,
           "isGotChip": true,
-          "chipNumber": 000000000000,
+          "chipNumber": "000000000000",
           "isMain": true
         }
       ]
@@ -69,7 +69,7 @@
         "petGender": "M",
         "isNeutered": false,
         "isGotChip": true,
-        "chipNumber": 000000000000
+        "chipNumber": "000000000000"
       },
       "threadImages": [
         {
