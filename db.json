@@ -28,7 +28,7 @@
           "isNeutered": true,
           "isGotChip": true,
           "chipNumber": "000000000000",
-          "isMain": true
+          "isMain": false
         }
       ]
     }
