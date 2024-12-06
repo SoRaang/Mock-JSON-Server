@@ -120,6 +120,7 @@
             },
             "threadImages": [
                 {
+                    "imageID": 0,
                     "imageURL": "https://www.naver.com",
                     "originName": "image",
                     "originFileType": "jpg",
@@ -194,6 +195,26 @@
     "replies": [
         {
             "reviewAuthor": 2,
+            "reviewImages": [
+                {
+                    "imageID": 1,
+                    "imageURL": "https://www.naver.com",
+                    "originName": "image",
+                    "originFileType": "jpg",
+                    "imageWidth": 640,
+                    "imageHeight": 480,
+                    "fileSize": 204817275
+                },
+                {
+                    "imageID": 2,
+                    "imageURL": "https://www.naver.com",
+                    "originName": "image",
+                    "originFileType": "jpg",
+                    "imageWidth": 640,
+                    "imageHeight": 480,
+                    "fileSize": 204817275
+                }
+            ],
             "reviewContent": "금방 찾으시기를",
             "createdAt": "2024-01-01 20:30",
             "modifiedAt": "2024-01-01 20:31"
